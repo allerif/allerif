@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey folks 🖖🏽 ! 
+<p>
+  <img height="180em" align="right"  src="https://cdn.discordapp.com/attachments/884532603305226293/894813594032672778/gif_github.gif">
+</p>
 
-<!--
-**allerif/allerif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm an Oceanographer;
+- I'm currently studying Electronic Engineering at UFSC.
+- Open Source Enthusiast;
 
-Here are some ideas to get you started:
+<br/>
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/allerif">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=allerif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allerif&layout=compact&langs_count=7&theme=dracula"/>
+</div>
