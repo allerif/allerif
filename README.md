@@ -8,9 +8,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 <div>
   <a href="https://github.com/allerif">
