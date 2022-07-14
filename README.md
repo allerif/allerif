@@ -4,7 +4,6 @@
 </p>
 
 - I'm an Oceanographer;
-- I'm currently studying Electronic Engineering at UFSC.
 - Open Source Enthusiast;
 
 <br/>
